@@ -1,1 +1,1 @@
-# NTULETBEST.github.io
+This is the icon server for NTULETBEST, one-of-one NFTS based on the SLP layer of Bitcoin Cash.
